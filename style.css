@@ -1,0 +1,84 @@
+
+@media(min-width: 768px){
+
+#images{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+   justify-content: space-around;
+}
+
+
+
+}
+
+
+
+
+h1{
+    font-size: 80px;
+    background-image: url("https://www.desktopbackground.org/download/3840x1080/2011/08/04/244888_pirate-ship-backgrounds-wallpapers-cave_4500x3000_h.jpg");
+    color: white;
+    text-shadow: 2px 2px #363a41;
+    
+}
+
+
+body{
+    background-color: rgb(149, 104, 157);
+    text-align: center;
+    
+}
+
+
+#one {
+    height: 300px;
+    width: 350px;
+    border: 5px solid rgb(255, 255, 255);
+    box-shadow: 5px 5px 5px 0px rgb(133, 30, 161);
+   
+}
+
+#two {
+    height: 300px;
+    width: 350px;
+    border: 5px solid rgb(255, 255, 255);
+    box-shadow: 5px 5px 5px 0px rgb(133, 30, 161);
+}
+
+#littleHeart{
+    height: 100px;
+    width: 150px;
+    
+   
+    
+}
+
+#button{
+    height: 40px;
+    width: 200px;
+    border: 3px solid rgb(0, 0, 0);
+    box-shadow: 5px 5px 5px 0px rgb(133, 30, 161);
+    
+}
+
+#button:hover{
+    background-color:#dadbdd;
+  
+}
+
+
+
+
+
+
+#bigText{
+    font-size: 50px;
+   font-family: cursive;
+    color: rgb(102, 212, 212);
+    text-shadow: 2px 2px #363a41;
+}
+
+#note{
+    font-size: 10px;
+}
